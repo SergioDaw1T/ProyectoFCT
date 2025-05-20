@@ -4,7 +4,7 @@ package cuentas.clientes;
 	 * Clase que representa una cuenta bancaria simple(esto es el commit).
 	 * Permite realizar operaciones como ingreso, retiro y consultar saldo.
 	 * Contiene información básica del titular, número de cuenta, saldo y tipo de interés.
-	 * (commit)
+	 * (commit)(cambiar commit)
 	 * 
 	 * @author Sergio
 	 * @version 1.2
